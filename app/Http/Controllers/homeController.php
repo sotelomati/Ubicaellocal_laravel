@@ -23,24 +23,24 @@ class homeController extends Controller
      */
     public function contacto()
     {
-        return view('contacto')
+        return view('contacto');
     }
 
     public function glutenfree()
     {
-        return view('glutenfree')
+        return view('glutenfree');
     }
 
 
     public function noble()
     {
-        return view('noble')
+        return view('noble');
     }
 
 
     public function ofertas()
     {
-        return view('ofertas')
+        return view('ofertas');
     }
 
 
