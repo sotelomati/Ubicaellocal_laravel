@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<nav class="navegacion-plantilla navbar fixed-top navbar-expand-xl navbar-dark bg-dark lista">
+<nav class="navbar fixed-top navbar-expand-xl navbar-dark bg-dark lista">
     @yield("navegacion-plantilla")
       <div class="container">
 
