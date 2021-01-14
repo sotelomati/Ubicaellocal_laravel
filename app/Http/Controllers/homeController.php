@@ -15,16 +15,17 @@ class homeController extends Controller
     {
         return view('index');
     }
-
+    
+    public function contacto()
+    {
+        return view('contacto');
+    }
     /**
      * Show the form for creating a new resource.
      *
      * @return \Illuminate\Http\Response
      */
-    public function contacto()
-    {
-        return view('contacto');
-    }
+   
 
     public function glutenfree()
     {
