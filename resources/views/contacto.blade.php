@@ -62,15 +62,13 @@
                     </form> 
 
                 </div>
-
             </div>
 
         </div>
 
-        <script src="form-validation.js">
-        
-        </script>
+@endsection
 
+@section("pie")
         <script>
                 // Example starter JavaScript for disabling form submissions if there are invalid fields
             (function () {
@@ -93,5 +91,4 @@
             })
             })()
         </script>
-
 @endsection
