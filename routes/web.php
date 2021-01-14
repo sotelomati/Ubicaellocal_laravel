@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'App\Http\Controllers\homeController@index');
 
 Route::get('/home', 'App\Http\Controllers\homeController@index');
+
+Route::get('/contacto', 'App\Http\Controllers\homeController@contacto');
+
+Route::get('/glutenfree', 'App\Http\Controllers\homeController@glutenFree');
+
+Route::get('/noble', 'App\Http\Controllers\homeController@noble');
+
+Route::get('/ofertas', 'App\Http\Controllers\homeController@ofertas');

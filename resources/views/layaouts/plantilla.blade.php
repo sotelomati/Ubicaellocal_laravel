@@ -55,6 +55,8 @@
       </div>
     </nav>    
 
+    yield("body")
+
 
 
 <div class="pie">
