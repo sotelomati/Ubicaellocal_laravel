@@ -1,0 +1,120 @@
+*estilos viejos
+ {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* ######################
+        header
+   ###################### */
+
+.header {
+    height: 200px;
+    margin: auto;
+    text-align: center;
+} 
+
+.header img{
+    height: 200px;
+    width: 100%;
+}
+
+/* ######################
+        navegacion
+   ###################### */
+   
+.navigation i{
+    font-size: 40px;
+    margin-right: 50px;
+    margin-top: 7px;
+}
+
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(61, 60, 60);
+}
+
+.navigation li {
+    width: 15%;
+    border-right: 1px solid #d6d6d6;
+    margin: auto;
+    float: left;
+    font-size: 25px;
+}
+
+.navigation li:nth-child(2){
+    border-left: 1px solid #d6d6d6;;
+}
+
+.navigation li:first-child{
+    border: none;
+    margin: 0 40px;
+}
+
+.navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+
+.navigation li a:hover {
+    background-color: #111;
+}
+/* ########################
+            Footer
+  ######################## */
+.footer {
+  margin: auto;
+  background-color: #74b9ff;
+  position: absolute;
+  bottom: 0;
+
+  width: 100%;
+  color: #2d3436;
+  
+  text-align:center
+  }
+
+  .sub-footer{
+    justify-content:center;
+    align-items: center;
+    margin: auto;
+  }
+
+  .int-footer {
+    width: 100%;
+    justify-content:center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .row-footer {
+      margin-top: 10px;
+      margin-bottom: 30px;
+      text-align: center;
+  }
+
+  .row-footer h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+
+  .row-footer ul {
+      width: 70%;
+      margin:auto;
+      list-style: none;
+    
+}
+
+
+.pie-final{
+    bottom: 0%;
+}
