@@ -17,7 +17,10 @@ Route::get('/', 'App\Http\Controllers\homeController@index');
 
 Route::get('/home', 'App\Http\Controllers\homeController@index');
 
-Route::get('/contacto', 'App\Http\Controllers\homeController@contacto');
+//Route::get('/contacto', 'App\Http\Controllers\homeController@contacto');
+Route::get('/contacto', function () {
+    return view('contacto');
+});
 
 Route::get('/glutenfree', 'App\Http\Controllers\homeController@glutenFree');
 

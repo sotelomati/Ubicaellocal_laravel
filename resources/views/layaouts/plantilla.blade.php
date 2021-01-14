@@ -13,7 +13,7 @@
     @yield("navegacion-plantilla")
       <div class="container">
 
-        <a class="navbar-brand mt-2" href="index.php"> 
+        <a class="navbar-brand mt-2" href="{{url('/home')}}"> 
           <img src="img/icono_mapa.png" loading=lazy alt="" class="navbar-brand__img"> Ubica el local
         </a>
         
@@ -44,7 +44,7 @@
             </li>
 
             <li class="nav-item" >
-              <a href="contacto.php" class="nav-link" >
+              <a href="{{url('/contacto')}}" class="nav-link" >
                 Contacto
               </a>
             </li>
