@@ -23,14 +23,16 @@
                                     <label for="form_name" >Nombre</label>
                                     <input id="form_name" type="text" class="form-control" placeholder="Nombre" required>
                                     <div class="invalid-feedback">
-                                        Ingrese su nombre
+                                        Ingrese  el nombre imbecil.
                                     </div>
                             </div>
 
                             <div class="col-md-6  mb-3">
                                     <label for="form_lastname">Apellido</label>
                                     <input id="form_lastname" type="text"  class="form-control" placeholder="Apellido" required="required">
-                                    <div class="help-block with-errors"></div>
+                                    <div class="invalid-feedback">
+                                        Te faltó el apellido capo.
+                                    </div>
                             </div>
                         </div>
 
@@ -38,7 +40,9 @@
                             <div class="col-md-6 mb-3">
                                     <label for="form_email">Email</label>
                                     <input id="form_email" type="email" class="form-control" placeholder="Correo" required="required">
-                                    <div class="help-block with-errors"></div>
+                                    <div class="invalid-feedback">
+                                        Y el email pa?
+                                    </div>
                             </div>
                         </div>
 
@@ -46,7 +50,9 @@
                             <div class="col-md-12 mb-3">
                                     <label for="form_message">Mensaje</label>
                                     <textarea id="form_message" class="form-control" placeholder="Mensaje" rows="4" required="required"></textarea>
-                                    <div class="help-block with-errors"></div>
+                                    <div class="invalid-feedback">
+                                        Ah bueee
+                                    </div>
                             </div>
                             <div class="col-md-12">
                                 <input type="submit" class="btn btn-success btn-send" value="Enviar mensaje">
