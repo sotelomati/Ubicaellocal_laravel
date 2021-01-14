@@ -14,7 +14,7 @@
       <div class="container">
 
         <a class="navbar-brand mt-2" href="index.php"> 
-          <img src="Imagenes/descarga1.png" loading=lazy alt="" class="navbar-brand__img"> Ubica el local
+          <img src="img/icono_mapa.png" loading=lazy alt="" class="navbar-brand__img"> Ubica el local
         </a>
         
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
