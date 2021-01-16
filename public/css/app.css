@@ -10015,17 +10015,58 @@ body{
   color: #fff;
   font-weight: 500;
   display: inline-block;
-  font-size: 13px;
-}
-.contact-social h5 {
-  color: #fff;
-  font-weight: 600;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .single-info ul li a {
   font-weight: 500;
   color: #fff;
   display: inline-block;
-  font-size: 13px;
+  font-size: 15px;
+}
+
+.contact-social h5 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+
+ .single-info {
+  text-align: left;
+  margin-bottom: 16px;
+  padding-left: 40px;
+  position: relative;
+}
+
+.single-info i {
+  color: #fff;
+  font-size: 18px;
+  display: inline-block;
+  margin-right: 20px;
+  position: absolute;
+  left: 0;
+}
+
+ul{
+  margin-bottom: 0 !important;
+  padding-left: 0 !important;
+}
+
+ .contact-social ul {
+  display: inline-block;
+  position: relative;
+  left: -9px;
+  margin-top: 15px;
+}
+
+.contact-social ul li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.contact-social ul li i{
+  color: #fff;
+  font-size: 18px;
+  margin-right: 20px;
 }

@@ -27,19 +27,20 @@
                             </ul>
                         </div>
                         <div class="single-info">
-                            <i class="lni lni-envelope"></i>
+                            <i class="bi bi-envelope"></i>
                             <ul>
                             <li><a href="mailto:info@yourwebsite.com">ubicaellocal@gmail.com</a></li>
                             </ul>
                         </div>
                         <div class="single-info">
-                            <i class="lni lni-map"></i>
+                            <i class="bi bi-map"></i>
                             <ul>
                             <li>Ubica El Local Drugstore, O'Higgins 556.</li>
                             </ul>
                         </div>
                         <div class="contact-social">
                             <h5>Follow Us on</h5>
+<<<<<<< HEAD
                             <ul>
                             <li>
                             <a href="#">
@@ -77,6 +78,28 @@
                             </a>
                             </li>
                             </ul>
+=======
+                                <ul>
+                                    <li>
+                                    <a href="#">
+                                    <i class="bi bi-facebook"></i></i>
+                                    </a>
+                                    </li>
+
+                                    <li>
+                                    <a href="#">
+                                    <i class="bi bi-twitter"></i>
+                                    </a>
+                                    </li>
+
+                                    <li>
+                                    <a href="#">
+                                    <i class="bi bi-instagram"></i>
+                                    </a>
+                                    </li>
+                                
+                                </ul>
+>>>>>>> 4c027d0879e5264dee3080979869c47006c65914
                         </div>
                     </div>
                 </div>
