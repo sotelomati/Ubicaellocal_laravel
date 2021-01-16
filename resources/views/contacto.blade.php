@@ -57,6 +57,12 @@
 
                                     <li>
                                     <a href="#">
+                                    <i class="bi bi-whatsapp"></i>
+                                    </a>
+                                    </li>
+
+                                    <li>
+                                    <a href="#">
                                     <i class="bi bi-instagram"></i>
                                     </a>
                                     </li>
