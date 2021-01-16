@@ -51,7 +51,7 @@
 
                                     <li>
                                     <a href="#">
-                                    <i class="bi bi-twitter"></i>
+                                    <i class="bi bi-whatsapp"></i>
                                     </a>
                                     </li>
 
