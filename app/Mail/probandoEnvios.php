@@ -10,15 +10,15 @@ use Illuminate\Queue\SerializesModels;
 class probandoEnvios extends Mailable
 {
     use Queueable, SerializesModels;
-
+    public $datos;
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct()
+    public function __construct($datos)
     {
-        //
+        $this->datos = $datos;
     }
 
     /**
