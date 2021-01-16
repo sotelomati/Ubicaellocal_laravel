@@ -13,7 +13,70 @@
 
             <div class="row">
 
-                <div class="col-xl-8 offset-xl-2 py-5">
+                
+                <div class="col-12 col-lg-5 py-5">
+                    <div class="single-head border rounded " style="padding: 50px; height: 100%; background: #3763eb;">
+                        <div class="contant-inner-title">
+                            <h4>Contact Information</h4>
+                            <p>Business consulting excepteur sint occaecat cupidatat consulting non proident.</p>
+                        </div>
+                        <div class="single-info">
+                            <i class="bi bi-telephone"></i>
+                            <ul>
+                            <li>+522 672-452-1120</li>
+                            </ul>
+                        </div>
+                        <div class="single-info">
+                            <i class="lni lni-envelope"></i>
+                            <ul>
+                            <li><a href="mailto:info@yourwebsite.com">example@yourwebsite.com</a></li>
+                            </ul>
+                        </div>
+                        <div class="single-info">
+                            <i class="lni lni-map"></i>
+                            <ul>
+                            <li>KA-62/1, Travel Agency, 45 Grand Central Terminal, New York.</li>
+                            </ul>
+                        </div>
+                        <div class="contact-social">
+                            <h5>Follow Us on</h5>
+                            <ul>
+                            <li>
+                            <a href="#">
+                            <span class="icon-1"><i class="lni lni-facebook-filled"></i></span>
+                            <span class="icon-2"><i class="lni lni-facebook-filled"></i></span>
+                            </a>
+                            </li>
+                            <li>
+                            <a href="#">
+                            <span class="icon-1"><i class="lni lni-twitter-original"></i></span>
+                            <span class="icon-2"><i class="lni lni-twitter-original"></i></span>
+                            </a>
+                            </li>
+                            <li>
+                            <a href="#">
+                            <span class="icon-1"><i class="lni lni-linkedin-original"></i></span>
+                            <span class="icon-2"><i class="lni lni-linkedin-original"></i></span>
+                            </a>
+                            </li>
+                            <li>
+                            <a href="#">
+                            <span class="icon-1"><i class="lni lni-instagram"></i></span>
+                            <span class="icon-2"><i class="lni lni-instagram"></i></span>
+                            </a>
+                            </li>
+                            <li>
+                            <a href="#">
+                            <span class="icon-1"><i class="lni lni-behance-original"></i></span>
+                            <span class="icon-2"><i class="lni lni-behance-original"></i></span>
+                            </a>
+                            </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg-7 py-5">
 
                     <h1>Tienes alguna consulta? Dejala aqui debajo</h1>
 
