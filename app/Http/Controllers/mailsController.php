@@ -15,14 +15,13 @@ class mailsController extends Controller
             'Nombre' => 'required',
             'Apellido' => 'required',
             'Mail' => 'required',
-            'Contenido' => 'requiered'
+            'Contenido' => 'required'
         ]);
 
         /*      mail      */
-        Mail::to('sotelomati@gmail.com')->send(new probandoEnvios);
+        Mail::to($request->input('Mail'))->send(new probandoEnvios($request));
 
 
-      //  return $request;
         //return 'procesando formulario';
     } 
 }

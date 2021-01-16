@@ -18,7 +18,7 @@
                     <div class="single-head border rounded " style="border-radius:1.25rem !important; padding: 50px; height: 100%; background: #3763eb;">
                         <div class="contant-inner-title">
                             <h4 >Informacion de contacto</h4>
-                            <p>Deja tu consulta o sugerencia, nosotro estaremos respondiendo a la brevedad.</p>
+                            <p>Deja tu consulta o sugerencia, nosotros estaremos respondiendo a la brevedad.</p>
                         </div>
                         <div class="single-info">
                             <i class="bi bi-telephone"></i>
@@ -44,14 +44,8 @@
 
                                 <ul class="ml-2">
                                     <li>
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/maria.ferreyra.5283166">
                                     <i class="bi bi-facebook"></i></i>
-                                    </a>
-                                    </li>
-
-                                    <li>
-                                    <a href="#">
-                                    <i class="bi bi-twitter"></i>
                                     </a>
                                     </li>
 
@@ -62,7 +56,7 @@
                                     </li>
 
                                     <li>
-                                    <a href="#">
+                                    <a href="https://www.instagram.com/ubicaellocal/">
                                     <i class="bi bi-instagram"></i>
                                     </a>
                                     </li>
@@ -113,7 +107,7 @@
                         <div class="row">
                             <div class="col-md-12 mb-3">
                                     <label for="form_message">Mensaje</label>
-                                    <textarea name="Cotenido" id="form_message" class="form-control" placeholder="Mensaje" rows="4" required="required"></textarea>
+                                    <textarea name="Contenido" id="form_message" class="form-control" placeholder="Mensaje" required="required"></textarea>
                                     <div class="invalid-feedback">
                                         Ah bueee
                                     </div>

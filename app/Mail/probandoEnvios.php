@@ -10,15 +10,15 @@ use Illuminate\Queue\SerializesModels;
 class probandoEnvios extends Mailable
 {
     use Queueable, SerializesModels;
-
+    public $datos;
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct()
+    public function __construct($request)
     {
-        //
+        $this->datos = $request;
     }
 
     /**
@@ -28,8 +28,6 @@ class probandoEnvios extends Mailable
      */
     public function build()
     {
-        return $this->from('pruebas.ubicaellocal@gmail.com', env('UbicaElLocal'))
-                    ->subject('Consulta')
-                    ->view('mails.consulta');
+        return $this->view('mails.consulta');
     }
 }
