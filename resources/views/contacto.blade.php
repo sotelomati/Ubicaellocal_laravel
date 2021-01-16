@@ -43,7 +43,12 @@
                             <ul>
                             <li>
                             <a href="#">
-                            <span class="icon-1"><i class="lni lni-facebook-filled"></i></span>
+                            <span class="icon-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-align-start" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 1 .5.5v13a.5.5 0 0 1-1 0v-13a.5.5 0 0 1 .5-.5z"/>
+                                    <path d="M3 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V7z"/>
+                                </svg>
+                                </span>
                             <span class="icon-2"><i class="lni lni-facebook-filled"></i></span>
                             </a>
                             </li>
