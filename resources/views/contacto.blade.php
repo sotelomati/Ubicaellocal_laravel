@@ -17,25 +17,25 @@
                 <div class="col-12 col-lg-5 py-5">
                     <div class="single-head border rounded " style="border-radius:1.25rem !important; padding: 50px; height: 100%; background: #3763eb;">
                         <div class="contant-inner-title">
-                            <h4 >Contact Information</h4>
-                            <p>Business consulting excepteur sint occaecat cupidatat consulting non proident.</p>
+                            <h4 >Informacion de contacto</h4>
+                            <p>Deja tu consulta o sugerencia, nosotro estaremos respondiendo a la brevedad.</p>
                         </div>
                         <div class="single-info">
                             <i class="bi bi-telephone"></i>
                             <ul>
-                            <li>+522 672-452-1120</li>
+                            <li>+54 0343 470-8569</li>
                             </ul>
                         </div>
                         <div class="single-info">
                             <i class="lni lni-envelope"></i>
                             <ul>
-                            <li><a href="mailto:info@yourwebsite.com">example@yourwebsite.com</a></li>
+                            <li><a href="mailto:info@yourwebsite.com">ubicaellocal@gmail.com</a></li>
                             </ul>
                         </div>
                         <div class="single-info">
                             <i class="lni lni-map"></i>
                             <ul>
-                            <li>KA-62/1, Travel Agency, 45 Grand Central Terminal, New York.</li>
+                            <li>Ubica El Local Drugstore, O'Higgins 556.</li>
                             </ul>
                         </div>
                         <div class="contact-social">
