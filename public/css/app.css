@@ -6239,6 +6239,8 @@ button.bg-dark:focus {
   border-radius: 0.25rem !important;
 }
 
+
+
 .rounded-top {
   border-top-left-radius: 0.25rem !important;
   border-top-right-radius: 0.25rem !important;
@@ -9992,3 +9994,38 @@ body{
     color:#d00;
     transition: color 1s;
   }
+
+  .contant-inner-title h4 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #fff;
+    text-transform: capitalize;
+}
+.contant-inner-title p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 23px;
+  margin-top: 10px;
+  display: block;
+}
+
+.single-info ul li {
+  color: #fff;
+  font-weight: 500;
+  display: inline-block;
+  font-size: 13px;
+}
+.contact-social h5 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.single-info ul li a {
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+  font-size: 13px;
+}
