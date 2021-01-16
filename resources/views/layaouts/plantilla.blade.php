@@ -9,8 +9,8 @@
 </head>
 <body>
 
+@yield("navegacion-plantilla")
 <nav class="navbar fixed-top navbar-expand-xl navbar-dark bg-dark lista">
-    @yield("navegacion-plantilla")
       <div class="container">
 
         <a class="navbar-brand mt-2" href="{{url('/home')}}"> 
