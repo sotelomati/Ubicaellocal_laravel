@@ -13,7 +13,7 @@
 
             <div class="row">
 
-                
+                <!-- Informacion -->
                 <div class="col-12 col-lg-5 py-5">
                     <div class="single-head border rounded " style="border-radius:1.25rem !important; padding: 50px; height: 100%; background: #3763eb;">
                         <div class="contant-inner-title">
@@ -73,6 +73,7 @@
                     </div>
                 </div>
 
+                <!-- Consulta -->
                 <div class="col-12 col-lg-7 py-5">
 
                     <h1>Tienes alguna consulta? Dejala aqui debajo</h1>
