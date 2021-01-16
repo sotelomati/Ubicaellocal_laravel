@@ -18,11 +18,14 @@
                     <h1>Tienes alguna consulta? Dejala aqui debajo</h1>
 
 
-                    <form class="needs-validation mt-3" novalidate>
+                    <form action="contacto" method="POST">
+                        @csrf
+                        <!-- Token de seguridad -->
+
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                     <label for="form_name" >Nombre</label>
-                                    <input id="form_name" type="text" class="form-control" placeholder="Nombre" required>
+                                    <input name="Nombre" id="form_name" type="text" class="form-control" placeholder="Nombre" required>
                                     <div class="invalid-feedback">
                                         Ingrese  el nombre imbecil.
                                     </div>
@@ -30,7 +33,7 @@
 
                             <div class="col-md-6  mb-3">
                                     <label for="form_lastname">Apellido</label>
-                                    <input id="form_lastname" type="text"  class="form-control" placeholder="Apellido" required="required">
+                                    <input name="Apellido" id="form_lastname" type="text"  class="form-control" placeholder="Apellido" required="required">
                                     <div class="invalid-feedback">
                                         Te faltó el apellido capo.
                                     </div>
@@ -40,7 +43,7 @@
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                     <label for="form_email">Email</label>
-                                    <input id="form_email" type="email" class="form-control" placeholder="Correo" required="required">
+                                    <input name="Mail" id="form_email" type="email" class="form-control" placeholder="Correo" required="required">
                                     <div class="invalid-feedback">
                                         Y el email pa?
                                     </div>
@@ -50,7 +53,7 @@
                         <div class="row">
                             <div class="col-md-12 mb-3">
                                     <label for="form_message">Mensaje</label>
-                                    <textarea id="form_message" class="form-control" placeholder="Mensaje" rows="4" required="required"></textarea>
+                                    <textarea name="Cotenido" id="form_message" class="form-control" placeholder="Mensaje" rows="4" required="required"></textarea>
                                     <div class="invalid-feedback">
                                         Ah bueee
                                     </div>
@@ -59,7 +62,7 @@
                                 <input type="submit" class="btn btn-success btn-send" value="Enviar mensaje">
                             </div>
                         </div>
-
+                        
                     </form> 
 
                 </div>
