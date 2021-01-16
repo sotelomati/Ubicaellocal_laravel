@@ -26,14 +26,13 @@
                             <div class="col-md-6 mb-3">
                                     <label for="form_name" >Nombre</label>
                                     <input name="Nombre" id="form_name" type="text" class="form-control" placeholder="Nombre" required>
-                                    <div class="invalid-feedback">
-                                        Ingrese  el nombre imbecil.
-                                    </div>
+                                    {!! $errors->first('Nombre', '<small>:message</small><br>') !!}
                             </div>
 
                             <div class="col-md-6  mb-3">
                                     <label for="form_lastname">Apellido</label>
                                     <input name="Apellido" id="form_lastname" type="text"  class="form-control" placeholder="Apellido" required="required">
+                                    {!! $errors->first('Nombre', '<small>:message</small><br>') !!}
                                     <div class="invalid-feedback">
                                         Te faltó el apellido capo.
                                     </div>

@@ -19,10 +19,10 @@ class mailsController extends Controller
         ]);
 
         /*      mail      */
-        Mail::to('sotelomati@gmail.com')->send(new probandoEnvios);
+        Mail::to('daianrene99@gmail.com')->send(new probandoEnvios);
 
 
-        return $request;
+      //  return $request;
         //return 'procesando formulario';
     } 
 }

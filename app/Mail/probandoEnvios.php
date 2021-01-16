@@ -28,6 +28,8 @@ class probandoEnvios extends Mailable
      */
     public function build()
     {
-        return $this->view('mails.consulta');
+        return $this->from('pruebas.ubicaellocal@gmail.com', env('UbicaElLocal'))
+                    ->subject('Consulta')
+                    ->view('mails.consulta');
     }
 }
