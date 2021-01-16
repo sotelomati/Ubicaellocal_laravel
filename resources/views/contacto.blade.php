@@ -27,51 +27,39 @@
                             </ul>
                         </div>
                         <div class="single-info">
-                            <i class="lni lni-envelope"></i>
+                            <i class="bi bi-envelope"></i>
                             <ul>
                             <li><a href="mailto:info@yourwebsite.com">example@yourwebsite.com</a></li>
                             </ul>
                         </div>
                         <div class="single-info">
-                            <i class="lni lni-map"></i>
+                            <i class="bi bi-map"></i>
                             <ul>
                             <li>KA-62/1, Travel Agency, 45 Grand Central Terminal, New York.</li>
                             </ul>
                         </div>
                         <div class="contact-social">
                             <h5>Follow Us on</h5>
-                            <ul>
-                            <li>
-                            <a href="#">
-                            <span class="icon-1"><i class="lni lni-facebook-filled"></i></span>
-                            <span class="icon-2"><i class="lni lni-facebook-filled"></i></span>
-                            </a>
-                            </li>
-                            <li>
-                            <a href="#">
-                            <span class="icon-1"><i class="lni lni-twitter-original"></i></span>
-                            <span class="icon-2"><i class="lni lni-twitter-original"></i></span>
-                            </a>
-                            </li>
-                            <li>
-                            <a href="#">
-                            <span class="icon-1"><i class="lni lni-linkedin-original"></i></span>
-                            <span class="icon-2"><i class="lni lni-linkedin-original"></i></span>
-                            </a>
-                            </li>
-                            <li>
-                            <a href="#">
-                            <span class="icon-1"><i class="lni lni-instagram"></i></span>
-                            <span class="icon-2"><i class="lni lni-instagram"></i></span>
-                            </a>
-                            </li>
-                            <li>
-                            <a href="#">
-                            <span class="icon-1"><i class="lni lni-behance-original"></i></span>
-                            <span class="icon-2"><i class="lni lni-behance-original"></i></span>
-                            </a>
-                            </li>
-                            </ul>
+                                <ul>
+                                    <li>
+                                    <a href="#">
+                                    <i class="bi bi-facebook"></i></i>
+                                    </a>
+                                    </li>
+
+                                    <li>
+                                    <a href="#">
+                                    <i class="bi bi-twitter"></i>
+                                    </a>
+                                    </li>
+
+                                    <li>
+                                    <a href="#">
+                                    <i class="bi bi-instagram"></i>
+                                    </a>
+                                    </li>
+                                
+                                </ul>
                         </div>
                     </div>
                 </div>
