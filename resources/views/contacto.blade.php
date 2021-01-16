@@ -38,11 +38,11 @@
                             <li>Ubica El Local Drugstore, O'Higgins 556.</li>
                             </ul>
                         </div>
-                        <div class="contact-social">
+                        <div class="contact-social mt-5">
                             <h5>Follow Us on</h5>
 
 
-                                <ul>
+                                <ul class="ml-2">
                                     <li>
                                     <a href="#">
                                     <i class="bi bi-facebook"></i></i>
