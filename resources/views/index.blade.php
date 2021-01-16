@@ -8,7 +8,7 @@
 
 @section("body")
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate amet vero veritatis omnis doloribus eius, sunt iure, esse velit, rerum dolor nulla. Quidem at fuga, nisi suscipit veritatis illo minima.
+<p style="margin: 0 30px; text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate amet vero veritatis omnis doloribus eius, sunt iure, esse velit, rerum dolor nulla. Quidem at fuga, nisi suscipit veritatis illo minima.
         Suscipit accusamus consequuntur ipsa expedita nemo incidunt nesciunt, sunt non eius harum odio illo odit doloribus asperiores molestiae id dolorum architecto deleniti veniam atque, ex, accusantium beatae magni officia! Nam.
         Magni vero pariatur quia. Aperiam nam sed unde. Veniam dolorem tenetur reiciendis, et assumenda sequi facere repellendus, voluptatum odit officia deserunt doloribus rem modi mollitia, neque laborum omnis sed consequatur?
         Maiores suscipit ut, corporis earum totam optio ad quam nostrum? Impedit quos quo officiis suscipit fugiat animi illo, quaerat doloribus, numquam illum cupiditate iste laboriosam odio reprehenderit incidunt minima nesciunt.
