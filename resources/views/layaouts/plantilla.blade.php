@@ -33,7 +33,7 @@
             </li>
 
             <li class="nav-item" >
-              <a href="#" class="nav-link">
+              <a href="{{url('/glutenfree')}}" class="nav-link">
                 Gluten Free
               </a>
             </li>
@@ -58,7 +58,8 @@
 
     @yield("body")
 
-        <footer class="bg-primary text-white text-center text-lg-start">
+
+        <footer class=" bg-primary text-white text-center text-lg-start ">
           <!-- Grid container -->
           <div class="container p-4">
             <!--Grid row-->

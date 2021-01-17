@@ -39,7 +39,7 @@
                             </ul>
                         </div>
                         <div class="contact-social mt-5">
-                            <h5>Follow Us on</h5>
+                            <h5>Siguenos en nuestras redes</h5>
 
 
                                 <ul class="ml-2">
